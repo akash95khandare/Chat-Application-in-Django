@@ -6,9 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="43b45ff9-34c6-4425-939d-50e6b7e81c08" name="Default Changelist" comment="Address book">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/DeckOfCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/DeckOfCard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/DeckOfCardWithQueue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/RegularExpression.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/RegularExpression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/AddressBook/AddressBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/AddressBook/AddressBook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/Clinic/Appointment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/Clinic/Clinic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/Clinic/ClinicService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/Clinic/Doctor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/Clinic/Patient.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/StockAccount/Company.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/StockAccount/Company.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,17 +25,73 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/AddressBook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="106">
+              <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/Service.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+              <folding>
+                <element signature="e#166#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/CompanyShareWithLinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/Company.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1069">
+              <caret line="2" column="16" selection-end-line="73" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/StockAccount.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+              <folding>
+                <element signature="e#194#277#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/Customer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="68" column="70" lean-forward="true" selection-start-line="68" selection-start-column="70" selection-end-line="68" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/akash.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOPS/RegularExpression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -91,17 +151,17 @@
         <option value="$PROJECT_DIR$/OOPS/DataManagement.py" />
         <option value="$PROJECT_DIR$/OOPS/StockReport.py" />
         <option value="$PROJECT_DIR$/OOPS/Json_Files/Stock.json" />
-        <option value="$PROJECT_DIR$/OOPS/AddressBook/AddressBook.py" />
         <option value="$PROJECT_DIR$/OOPS/AddressBook/person_data.json" />
         <option value="$PROJECT_DIR$/OOPS/StockAccount/Transaction_queue.json" />
         <option value="$PROJECT_DIR$/OOPS/StockAccount/Transaction_stack.json" />
         <option value="$PROJECT_DIR$/OOPS/StockAccount/Customer.py" />
-        <option value="$PROJECT_DIR$/OOPS/StockAccount/Company.json" />
         <option value="$PROJECT_DIR$/OOPS/StockAccount/CompanyShareWithLinkedList.py" />
         <option value="$PROJECT_DIR$/OOPS/StockAccount/StockAccount.py" />
         <option value="$PROJECT_DIR$/OOPS/StockAccount/Customer.json" />
         <option value="$PROJECT_DIR$/OOPS/RegularExpression.py" />
         <option value="$PROJECT_DIR$/OOPS/DeckOfCard.py" />
+        <option value="$PROJECT_DIR$/OOPS/AddressBook/AddressBook.py" />
+        <option value="$PROJECT_DIR$/OOPS/StockAccount/Company.json" />
       </list>
     </option>
   </component>
@@ -116,14 +176,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Month1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Practice" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -153,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AddressBook">
+  <component name="RunManager" selected="Python.StockAccount">
     <configuration name="AddressBook" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Month1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DataManagement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CompanyShareWithLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Month1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/StockAccount" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/DataManagement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/StockAccount/CompanyShareWithLinkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DeckOfCard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Customer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Month1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/StockAccount" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/DeckOfCard.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/StockAccount/Customer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RegularExpression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DateTimeTransactionWithQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Month1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,11 +295,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/StockAccount" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/RegularExpression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/StockAccount/DateTimeTransactionWithQueue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,18 +353,18 @@
     <list>
       <item itemvalue="Python.Sample" />
       <item itemvalue="Python.AddressBook" />
-      <item itemvalue="Python.DeckOfCard" />
-      <item itemvalue="Python.RegularExpression" />
+      <item itemvalue="Python.CompanyShareWithLinkedList" />
+      <item itemvalue="Python.Customer" />
+      <item itemvalue="Python.DateTimeTransactionWithQueue" />
       <item itemvalue="Python.StockAccount" />
-      <item itemvalue="Python.DataManagement" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.AddressBook" />
-        <item itemvalue="Python.DataManagement" />
-        <item itemvalue="Python.DeckOfCard" />
-        <item itemvalue="Python.RegularExpression" />
         <item itemvalue="Python.StockAccount" />
+        <item itemvalue="Python.CompanyShareWithLinkedList" />
+        <item itemvalue="Python.DateTimeTransactionWithQueue" />
+        <item itemvalue="Python.Customer" />
+        <item itemvalue="Python.AddressBook" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +467,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32777777" />
-      <window_info anchor="bottom" x="0" y="55" width="1366" height="656" id="Run" maximized="true" order="2" sideWeight="0.4996277" weight="0.6962963" />
+      <window_info anchor="bottom" x="0" y="55" width="1366" height="656" id="Run" maximized="true" order="2" sideWeight="0.4996277" weight="0.5537037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4925926" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,13 +506,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/lib/python3.6/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="178" column="4" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/Banking/Bank.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -689,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/Service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/person_data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -727,37 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/Company.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-668">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/StockAccount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
-          <folding>
-            <element signature="e#194#277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/Customer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="68" column="70" lean-forward="true" selection-start-line="68" selection-start-column="70" selection-end-line="68" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/CompanyShareWithLinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/Customer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -765,16 +790,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/DeckOfCardWithQueue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/DeckOfCardWithQueue.py" />
     <entry file="file://$PROJECT_DIR$/OOPS/DeckOfCard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -789,17 +805,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/AddressBook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OOPS/RegularExpression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/akash.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/AddressBook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/AddressBook/Service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding>
+            <element signature="e#166#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/Customer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="68" column="70" lean-forward="true" selection-start-line="68" selection-start-column="70" selection-end-line="68" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/CompanyShareWithLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/Company.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1069">
+          <caret line="2" column="16" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/StockAccount/StockAccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+          <folding>
+            <element signature="e#194#277#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
