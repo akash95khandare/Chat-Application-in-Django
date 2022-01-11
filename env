@@ -8,3 +8,4 @@ echo 'DEBUG=TRUE
 		DATABASE_URL=mysql://$USERNAME:$PASSWORD@$HOST:3306/chatapp
 		' > /home/ubuntu/chatapplication/chatapplication/.env
 cd /home/ubuntu/chatapplication
+python3 manage.py migrate
