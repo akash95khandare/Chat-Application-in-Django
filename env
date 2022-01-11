@@ -2,7 +2,7 @@
 echo 'DEBUG=TRUE
 		# DJANGO_SETTINGS_MODULE=myapp.settings.dev
 		SECRET_KEY=xux7u0pd8r#k)fbf6+s4!8uksw(e!-y!je($v_j7m1r+g@z32-
-		DATABASE_URL=mysql://`aws ssm get-parameter --name=/rds/chatapp/username --region us-east-1 --output text | awk '{print $7}'`:`aws ssm get-parameter --name=/rds/chatapp/username --region us-east-1 --output text | awk '{print $7}'`@`aws ssm get-parameter --name=/rds/chatapp/username --region us-east-1 --output text | awk '{print $7}'`:3306/chatapp
+		DATABASE_URL=mysql://`aws ssm get-parameter --name=/rds/chatapp/username --region us-east-1 --output text | awk '{print $7}'`:`aws ssm get-parameter --name=/rds/chatapp/password --region us-east-1 --output text | awk '{print $7}'`@`aws ssm get-parameter --name=/rds/chatapp/host --region us-east-1 --output text | awk '{print $7}'`:3306/chatapp
 		' > /home/ubuntu/chatapplication/chatapplication/.env
 cd /home/ubuntu/chatapplication
 python3 manage.py migrate
